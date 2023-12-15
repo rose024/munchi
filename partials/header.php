@@ -21,8 +21,7 @@
                     <a href="">Contact Us</a>
                 </div>
                 <div>
-
-                    <button class="btn-join-now">Join Now</button>
+                    <a href="../assets/img/Asset 19.png"></a>
                 </div>
             </div>
         </nav>
