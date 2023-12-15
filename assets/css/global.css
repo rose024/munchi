@@ -1,0 +1,22 @@
+:root {
+    --primary-color: #9eb5e8;
+    --secondary-color: #bbc9eb;
+    --tertiary-color: #ffbbc3;
+    --quaternary-color: #fbecf7;
+}
+
+* {outline: greenyellow 2px solid;}
+
+nav {
+    display: flex;
+}
+
+nav img {
+    width: 150px;
+}
+
+.btn-join-now {
+    background-color: var(--quaternary-color);
+    outline: none;
+    box-shadow: none;
+}
