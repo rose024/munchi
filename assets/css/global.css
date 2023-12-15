@@ -11,15 +11,22 @@
 .munchi-logo {
     width: 50px;
 }
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
 /* GENERAL */
 
-* {outline: greenyellow 2px solid;}
+/* * {outline: greenyellow 2px solid;} */
 
 body {
     font-size: 16px;
     margin: 0 auto;
     font-family: 'Laila', serif;
     font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /* HEADER */
@@ -60,6 +67,60 @@ header a {
 }
 /* HEADER */
 
+/* MAIN */
+main {
+    flex: 1;
+}
+
+/* MAIN */
+
+/* REGISTRATION PAGE */
+.registration {
+    background-color: var(--quaternary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.registration__container {
+    padding: 39px;
+}
+
+.registration__container_form div {
+    margin-bottom: 10px;
+}
+
+.registration__container_headline {
+    text-align: center;
+}
+
+.registration h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.registration__container_fullname {
+    display: flex;
+}
+
+.registration__container_firstname {
+    margin-right: 6px;
+}
+
+.registration__container_lastname {
+    margin-left: 6px;
+}
+
+.registration__container_buttons {
+    text-align: center;
+    padding: 0;
+    margin: 34px;
+}
+
+.registration__container_buttons a {
+    color: var(--primary-color);
+}
+/* REGISTRATION PAGE */
 
 /* FOOTER */
 footer {

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1003.92 1003.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffbbc3;
+      }
+
+      .cls-1, .cls-2 {
+        opacity: .88;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="User_icon" data-name="User icon">
+    <g>
+      <circle class="cls-1" cx="501.96" cy="501.96" r="501.96"/>
+      <g id="User_icon-2" data-name="User icon" class="cls-2">
+        <circle class="cls-3" cx="501.96" cy="372.99" r="144.37"/>
+        <path class="cls-3" d="m607.91,563.56h-211.89c-95.64,0-173.18,77.54-173.18,173.18v38.57h558.25v-38.57c0-95.64-77.54-173.18-173.18-173.18Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
