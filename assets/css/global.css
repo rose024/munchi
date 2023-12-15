@@ -11,6 +11,18 @@
 .munchi-logo {
     width: 50px;
 }
+.hero_banner {
+    height: 640px;
+    overflow: hidden;
+    position: relative;
+}
+.promotion_banner {
+    position: absolute;
+    width: 100%;
+}
+.hero_banner img {
+    width: 100%;
+}
 .flex-column {
     display: flex;
     flex-direction: column;
