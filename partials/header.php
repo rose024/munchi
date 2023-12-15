@@ -12,7 +12,7 @@
         <nav>
             <div class="nav__flex_row">
                 <div><h1>Munchi</h1></div>
-                <img src="../assets/img/logo.png" alt="logo of munchi">
+                <img src="../assets/img/logo.png" alt="logo of munchi" class="munchi-logo">
             </div>
             <div class="nav__flex_row">
                 <div class="nav__items">
@@ -27,6 +27,3 @@
             </div>
         </nav>
     </header>
-
-</body>
-</html>

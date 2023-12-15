@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&display=swap');
+
 :root {
     --primary-color: #9eb5e8;
     --secondary-color: #bbc9eb;
@@ -5,11 +7,19 @@
     --quaternary-color: #fbecf7;
 }
 
+/* GENERAL */
+.munchi-logo {
+    width: 50px;
+}
+/* GENERAL */
+
 * {outline: greenyellow 2px solid;}
 
 body {
     font-size: 16px;
     margin: 0 auto;
+    font-family: 'Laila', serif;
+    font-weight: 300;
 }
 
 /* HEADER */
@@ -30,10 +40,6 @@ nav h1 {
     align-items: center;
 }
 
-nav img {
-    width: 50px;
-}
-
 .nav__items {
     display: flex;
     justify-content: space-between;
@@ -43,6 +49,7 @@ nav img {
 
 header a {
     text-decoration: none;
+    color: black;
 }
 
 .btn-join-now {
@@ -52,3 +59,24 @@ header a {
     margin-right: 120px;
 }
 /* HEADER */
+
+
+/* FOOTER */
+footer {
+    height: 140px;
+    background-color: var(--secondary-color);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+}
+
+footer div {
+    text-align: center;
+}
+
+footer a {
+    color: black;
+    margin: 0 12.5px;
+}
+/* FOOTER */
