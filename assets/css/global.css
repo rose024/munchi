@@ -30,6 +30,10 @@
 .flex-row {
     display: flex;
 }
+.flex-row-space-between {
+    display: flex;
+    justify-content: space-between;
+}
 /* GENERAL */
 
 /* * {outline: greenyellow 2px solid;} */
@@ -229,6 +233,48 @@ main {
     width: 328px;
 }
 /* BENEFITS PAGE */
+
+
+/* ORDER CONFIRMATION PAGE */
+.orders {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.orders__container {
+    margin: 160px 0;
+    width: 50%;
+}
+.orders__container_title {
+    text-align: center;
+}
+.orders__container_card {
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .25);
+    border-radius: 20px;
+    padding: 50px;
+}
+.orders h3,
+.orders h4 {
+    margin: 0;
+}
+.orders__container_card_section2 p,
+.orders__container_card_section3 p {
+    margin: 0;
+    padding: 0;
+}
+.orders__container_card_section3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.orders__container_buttons {
+    margin-top: 50px;
+    text-align: center;
+}
+.orders__container_buttons img {
+    width: 311px;
+}
+/* ORDER CONFIRMATION PAGE */
+
 
 /* FOOTER */
 footer {
