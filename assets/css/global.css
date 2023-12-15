@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&family=Laila:wght@300;400;500;600;700&display=swap');
 
 :root {
     --primary-color: #9eb5e8;
@@ -206,6 +206,29 @@ main {
     margin-bottom: 19px;
 }
 /* SUBSCRIPTION PAGE */
+
+/* BENEFITS PAGE */
+.benefits__container_content {
+    text-align: center;
+}
+.benefits__container_content h1 {
+    margin-top: 139px;
+    font-family: 'Kavoon', serif;
+    font-size: 56px;
+}
+.benefits__container_section {
+    margin: 40px;
+}
+.benefits__container_thumbnails {
+    width: 128px;
+}
+.benefits__container_buttons {
+    margin-bottom: 157px;
+}
+.benefits__container_buttons img {
+    width: 328px;
+}
+/* BENEFITS PAGE */
 
 /* FOOTER */
 footer {
