@@ -37,7 +37,9 @@
             </div>
 
             <div class="benefits__container_buttons">
-                <img src="./assets/img/Asset 13.png" alt="">
+                <a href="subscription.php">
+                    <img src="./assets/img/Asset 13.png" alt="">
+                </a>
             </div>
 
         </div>
