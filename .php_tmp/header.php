@@ -10,12 +10,12 @@
 <body>
     <header>
         <nav>
-            <div>
-                <h1>Munchi</h1>
+            <div class="nav__flex_row">
+                <div><h1>Munchi</h1></div>
                 <img src="../assets/img/logo.png" alt="logo of munchi">
             </div>
-            <div>
-                <div>
+            <div class="nav__flex_row">
+                <div class="nav__items">
                     <a href="">Menu</a>
                     <a href="">Subscription</a>
                     <a href="">Contact Us</a>
