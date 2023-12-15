@@ -15,6 +15,9 @@
     display: flex;
     flex-direction: column;
 }
+.flex-row {
+    display: flex;
+}
 /* GENERAL */
 
 /* * {outline: greenyellow 2px solid;} */
@@ -145,6 +148,53 @@ main {
 }
 /* LOGIN PAGE */
 
+/* SUBSCRIPTION PAGE */
+.subscription {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subscription__container {
+    margin: 50px;
+}
+
+.subscription h2 {
+    margin: 0;
+    font-size: 26px;
+    align-self: center;
+    margin-left: 17px;
+}
+
+.subscription__container_numbering {
+    width: 46px;
+    height: 46px;
+}
+
+.subscription__btn {
+    background-color: var(--quaternary-color);
+    color: #999;
+    padding: 12px;
+    border-radius: 12px;
+    border: none;
+}
+
+.subscription__container_section1,
+.subscription__container_section2,
+.subscription__container_section3 {
+    margin-bottom: 45px;
+}
+
+.subscription__container_sectiontitle {
+    margin-bottom: 17px;
+}
+
+.subscription__container_boxtype {
+    width: 128px;
+    margin-bottom: 19px;
+}
+/* SUBSCRIPTION PAGE */
+
 /* FOOTER */
 footer {
     height: 140px;
@@ -162,5 +212,9 @@ footer div {
 footer a {
     color: black;
     margin: 0 12.5px;
+}
+
+footer img {
+    width: 30px;
 }
 /* FOOTER */
