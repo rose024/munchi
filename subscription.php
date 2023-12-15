@@ -60,7 +60,9 @@
         </div>
 
         <div style="margin: 60px; text-align: center;">
-            <img src="./assets/img/Asset 7.png" alt="">
+            <a href="checkout.php">
+                <img src="./assets/img/Asset 7.png" alt="">
+            </a>
         </div>
 
     </div>
