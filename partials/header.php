@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Munchi | Snack Subscription Box | Japanese Snacks Collection</title>
 
+    <link type="text/css" rel="stylesheet" href="../assets/css/checkout.css">
     <link type="text/css" rel="stylesheet" href="../assets/css/global.css">
 </head>
 <body>
