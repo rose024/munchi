@@ -82,7 +82,9 @@
         </div>
 
         <div class="orders__container_buttons">
-            <img src="./assets/img/Asset 12.png" alt="">
+            <a href="index.php">
+                <img src="./assets/img/Asset 12.png" alt="">
+            </a>
         </div>
 
     </div>
