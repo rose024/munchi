@@ -122,6 +122,29 @@ main {
 }
 /* REGISTRATION PAGE */
 
+/* LOGIN PAGE */
+.login {
+    background-color: var(--quaternary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login__container_form div {
+    margin-bottom: 10px;
+}
+
+.login__container_headline {
+    text-align: center;
+}
+
+.login__container_buttons {
+    text-align: center;
+    padding: 0;
+    margin: 34px;
+}
+/* LOGIN PAGE */
+
 /* FOOTER */
 footer {
     height: 140px;
