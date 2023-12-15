@@ -17,9 +17,9 @@
             </div>
             <div class="nav__flex_row">
                 <div class="nav__items">
-                    <a href="">Menu</a>
-                    <a href="">Subscription</a>
-                    <a href="">Contact Us</a>
+                    <a href="./benefits.php">Benefits</a>
+                    <a href="./subscription.php">Subscription</a>
+                    <a href="./login.php">Log In</a>
                 </div>
                 <div>
                     <a href="../assets/img/Asset 19.png"></a>
