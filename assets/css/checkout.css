@@ -25,3 +25,7 @@ input{
     height:300px;
     padding: 20px;
 }
+
+.btn{
+    border-style: none;
+}
