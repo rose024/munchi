@@ -17,12 +17,12 @@
             </div>
             <div class="nav__flex_row">
                 <div class="nav__items">
-                    <a href="./benefits.php">Benefits</a>
-                    <a href="./subscription.php">Subscription</a>
-                    <a href="./login.php">Log In</a>
+                    <a href="../benefits.php">Benefits</a>
+                    <a href="../subscription.php">Subscription</a>
+                    <a href="../login.php">Log In</a>
                 </div>
                 <div>
-                    <img src="../assets/img/Asset 19.png" alt="">
+                    <a href="../registration.php"><img src="../assets/img/Asset 19.png" alt=""></a>
                 </div>
             </div>
         </nav>
