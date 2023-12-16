@@ -193,6 +193,10 @@ main {
     border: none;
 }
 
+.subscription__btn:focus{
+    background-color: var(--primary-color);
+}
+
 .subscription__container_section1,
 .subscription__container_section2,
 .subscription__container_section3 {
