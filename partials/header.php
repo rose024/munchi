@@ -22,7 +22,7 @@
                     <a href="./login.php">Log In</a>
                 </div>
                 <div>
-                    <a href="../assets/img/Asset 19.png"></a>
+                    <img src="../assets/img/Asset 19.png" alt="">
                 </div>
             </div>
         </nav>
