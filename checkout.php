@@ -19,11 +19,19 @@
 
                 <h3>Shipping Address</h3>
             
-                    <label for="first_name">First Name:</label><br>
-                    <input type="text" id="first_name" name="first_name" placeholder="first name" required>
+                    <div class="flex-row">
 
-                    <label for="last_name">Last Name:</label>
-                    <input type="text" id="last_name" name="last_name" placeholder="last name" required><br>
+                        <div class="flex-column">
+                            <label for="first_name">First Name:</label>
+                            <input type="text" id="first_name" name="first_name" placeholder="first name" required>
+                        </div>
+
+                        <div class="flex-column">
+                            <label for="last_name">Last Name:</label>
+                            <input type="text" id="last_name" name="last_name" placeholder="last name" required><br>
+                        </div>
+
+                    </div>
 
                     <label for="address">Address:</label><br>
                     <input type="text" id="address" name="address" placeholder="Address" required><br>
