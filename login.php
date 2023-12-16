@@ -14,12 +14,12 @@
 
             <div class="flex-column">
                 <label for="email">Email Address</label>  
-                <input type="text" class="???" id="email" name="email">
+                <input type="text" class="email" id="email" name="email">
             </div>
             
             <div class="flex-column">
                 <label for="password1">Password</label>  
-                <input type="password" class="???" id="password1" name="password1">
+                <input type="password" class="password1" id="password1" name="password1">
             </div>
         
             <div class="login__container_buttons">

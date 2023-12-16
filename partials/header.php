@@ -12,8 +12,8 @@
     <header>
         <nav>
             <div class="nav__flex_row">
-                <div><h1>Munchi</h1></div>
-                <img src="../assets/img/logo.png" alt="logo of munchi" class="munchi-logo">
+                <div><a href="../index.php"><h1>Munchi</h1></div></a>
+                <a href="../index.php"><img src="../assets/img/logo.png" alt="logo of munchi" class="munchi-logo"></a>
             </div>
             <div class="nav__flex_row">
                 <div class="nav__items">
